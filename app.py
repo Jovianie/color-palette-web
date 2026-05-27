@@ -47,14 +47,6 @@ html, body,
     margin-bottom: 10px;
 }
 
-.header-title {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 3.2rem;
-    font-weight: 600;
-    color: #F4F1E2;
-    line-height: 1.0;
-    letter-spacing: -0.01em;
-}
 
 .header-title em {
     font-style: italic;
