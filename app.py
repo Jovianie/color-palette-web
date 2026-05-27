@@ -47,6 +47,14 @@ html, body,
     margin-bottom: 10px;
 }
 
+.header-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3.2rem;
+    font-weight: 600;
+    color: #F4F1E2;
+    line-height: 1.0;
+    letter-spacing: -0.01em;
+}
 
 .header-title em {
     font-style: italic;
@@ -238,7 +246,7 @@ def extract_palette(image, n):
 st.markdown("""
 <div class="header">
     <p class="header-eyebrow">Color Palette Extractor</p>
-    <h1 class="header-title">Find the colors<br><em>in your image.</em></h1>
+   
 </div>
 <div class="rule"></div>
 """, unsafe_allow_html=True)
