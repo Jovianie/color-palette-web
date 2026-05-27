@@ -19,7 +19,7 @@ st.markdown("""
 html, body,
 [data-testid="stAppViewContainer"],
 [data-testid="stAppViewBlockContainer"] {
-    background: #fdf9f3 !important;
+    background: #513229 !important;
 }
 
 [data-testid="stHeader"],
@@ -43,7 +43,7 @@ html, body,
     font-weight: 400;
     letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: #C1DBE8;
+    color: #FCE6B7;
     margin-bottom: 10px;
 }
 
@@ -51,7 +51,7 @@ html, body,
     font-family: 'Cormorant Garamond', serif;
     font-size: 3.2rem;
     font-weight: 600;
-    color: #43302E;
+    color: #F4F1E2;
     line-height: 1.0;
     letter-spacing: -0.01em;
 }
@@ -59,7 +59,7 @@ html, body,
 .header-title em {
     font-style: italic;
     font-weight: 400;
-    color: #8a6f5e;
+    color: #F4F1E2;
 }
 
 /* ── Divider ── */
@@ -76,7 +76,7 @@ html, body,
     font-weight: 400;
     letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: #b8a99a;
+    color: #D8EBF9;
     margin-bottom: 10px;
 }
 
@@ -87,7 +87,7 @@ html, body,
     border-radius: 14px !important;
 }
 [data-testid="stFileUploader"]:hover {
-    border-color: #C1DBE8 !important;
+    border-color: #FCE6B7 !important;
     background: #f5f9fc !important;
 }
 [data-testid="stFileUploader"] section {
@@ -95,7 +95,7 @@ html, body,
     min-height: unset !important;
 }
 [data-testid="stFileUploader"] button {
-    background: #43302E !important;
+    background: #F4F1E2 !important;
     color: #FFF1B5 !important;
     border: none !important;
     border-radius: 8px !important;
@@ -123,13 +123,13 @@ html, body,
     font-weight: 400 !important;
     letter-spacing: 0.22em !important;
     text-transform: uppercase !important;
-    color: #b8a99a !important;
+    color: #D8EBF9 !important;
     margin-bottom: 10px !important;
 }
 
 .stSlider [data-baseweb="slider"] div[role="slider"] {
-    background: #43302E !important;
-    border: 2px solid #fdf9f3 !important;
+    background: #F4F1E2 !important;
+    border: 2px solid #513229 !important;
     box-shadow: 0 1px 6px rgba(67,48,46,0.2) !important;
     width: 18px !important;
     height: 18px !important;
@@ -178,7 +178,7 @@ div[data-testid="stSliderTickBarMax"] { display: none !important; }
     font-family: 'DM Sans', sans-serif;
     font-size: 0.68rem;
     font-weight: 400;
-    color: #43302E;
+    color: #F4F1E2;
     letter-spacing: 0.04em;
 }
 .card-pct {
