@@ -95,7 +95,7 @@ html, body,
     min-height: unset !important;
 }
 [data-testid="stFileUploader"] button {
-    background: #F4F1E2 !important;
+    background: #513229 !important;
     color: #FFF1B5 !important;
     border: none !important;
     border-radius: 8px !important;
