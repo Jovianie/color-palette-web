@@ -76,7 +76,7 @@ html, body,
     font-weight: 400;
     letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: #D8EBF9;
+    color: #fce6b7;
     margin-bottom: 10px;
 }
 
@@ -123,7 +123,7 @@ html, body,
     font-weight: 400 !important;
     letter-spacing: 0.22em !important;
     text-transform: uppercase !important;
-    color: #D8EBF9 !important;
+    color: #fce6b7 !important;
     margin-bottom: 10px !important;
 }
 
