@@ -76,7 +76,7 @@ html, body,
     font-weight: 400;
     letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: #fce6b7;
+    color: #f4f1e2;
     margin-bottom: 10px;
 }
 
@@ -164,7 +164,7 @@ div[data-testid="stSliderTickBarMax"] { display: none !important; }
     flex: 1;
     border-radius: 12px;
     overflow: hidden;
-    background: #fff;
+    background: #fce6b7;
     border: 1px solid #ece5dc;
     transition: transform 0.2s, box-shadow 0.2s;
 }
