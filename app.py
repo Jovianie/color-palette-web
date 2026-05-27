@@ -246,7 +246,7 @@ def extract_palette(image, n):
 st.markdown("""
 <div class="header">
     <p class="header-eyebrow">Color Palette Extractor</p>
-     <h1 class="header-title">Find the colors<em>in your image.</em></h1>
+     <h1 class="header-title em">Find the colors<br>in your image.</h1>
 </div>
 <div class="rule"></div>
 """, unsafe_allow_html=True)
