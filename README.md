@@ -1,5 +1,6 @@
-# TUGAS PERTEMUAN 11
+# TUGAS PERTEMUAN 11 PRAKTIKUM AI
 Nama  : Jovianie Felisia Suryadi
+
 NPM   : 140810240010
 
 # Color Palette
