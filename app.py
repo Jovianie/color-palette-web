@@ -76,7 +76,7 @@ html, body,
     font-weight: 400;
     letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: #513229;
+    color: #fce6b7;
     margin-bottom: 10px;
 }
 
@@ -178,7 +178,7 @@ div[data-testid="stSliderTickBarMax"] { display: none !important; }
     font-family: 'DM Sans', sans-serif;
     font-size: 0.68rem;
     font-weight: 400;
-    color: #F4F1E2;
+    color: #513229;
     letter-spacing: 0.04em;
 }
 .card-pct {
